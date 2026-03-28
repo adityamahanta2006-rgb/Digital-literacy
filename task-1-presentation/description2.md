@@ -3,12 +3,15 @@ As a Student Digital Ambassador, I developed this resource to address the growin
 Core Objectives:
 
                  Awareness: Identifying the signs of digital burnout, such as "doomscrolling," screen fatigue, and the impact of blue light on sleep cycles.
+                 
                  Boundary Setting: Introducing practical techniques like the 20-20-20 rule (for eye strain) and "Digital Detox" windows to improve focus during study                   sessions.
+                 
                  Intentionality: Encouraging students to move from passive consumption to active, goal-oriented technology use.
 
 Key Tools & Strategies Featured:
 
                  App Limiters: Utilizing native Screen Time (iOS) or Digital Wellbeing (Android) tools to audit usage.
+                 
                  Focus Modes: Setting up custom notification filters to minimize distractions during lectures and coding labs.
 
 Reflection Note:
