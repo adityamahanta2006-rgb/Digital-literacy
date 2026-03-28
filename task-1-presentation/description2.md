@@ -4,7 +4,7 @@ Core Objectives:
 
                  Awareness: Identifying the signs of digital burnout, such as "doomscrolling," screen fatigue, and the impact of blue light on sleep cycles.
                  
-                 Boundary Setting: Introducing practical techniques like the 20-20-20 rule (for eye strain) and "Digital Detox" windows to improve focus during study                   sessions.
+                 Boundary Setting: Introducing practical techniques like the 20-20-20 rule (for eye strain) and "Digital Detox" windows to improve focus during study sessions.
                  
                  Intentionality: Encouraging students to move from passive consumption to active, goal-oriented technology use.
 
