@@ -9,3 +9,5 @@ Core Objectives:
                 Empowerment: Shift the perspective from "hiding" online to "building" a positive personal brand that opens doors for internships.
 
                 Tools_Used: Canva was used to create the presentation
+
+link-https://www.canva.com/design/DAHFQ2tVy_k/abTMvCOUpXzdBYiS4ga8nw/edit?utm_content=DAHFQ2tVy_k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
