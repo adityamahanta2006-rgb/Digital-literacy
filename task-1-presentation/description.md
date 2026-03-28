@@ -2,10 +2,10 @@ As a Student Digital Ambassador, I developed this presentation to educate my pee
 
 Core Objectives:
 
-Awareness: Define the difference between active data (posts/shares) and passive data (cookies/IP tracking).
+                Awareness: Define the difference between active data (posts/shares) and passive data (cookies/IP tracking).
 
-Action: Provide a "Digital Audit" checklist to help students secure their privacy settings and curate a professional online image.
+                Action: Provide a "Digital Audit" checklist to help students secure their privacy settings and curate a professional online image.
 
-Empowerment: Shift the perspective from "hiding" online to "building" a positive personal brand that opens doors for internships.
+                Empowerment: Shift the perspective from "hiding" online to "building" a positive personal brand that opens doors for internships.
 
-Tools_Used: Canva
+                Tools_Used: Canva
