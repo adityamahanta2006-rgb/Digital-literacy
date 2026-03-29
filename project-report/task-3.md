@@ -3,7 +3,7 @@
 ### **Part A: Coding Practice**
 * **Platform:** HackerRank
 * **Challenge:** "Day of the Programmer" (Python/Problem Solving)
-* **Deliverable:** [coding-proof.png](./coding-proof.png)
+* **Code:** [coding.png]([Digital-literacy/blob/main/task-3-platforms/coding.png](https://github.com/adityamahanta2006-rgb/Digital-literacy/blob/main/task-3-platforms/coding.png))
 
 ### **Part B: Google Workspace Collaboration**
 * **Tool:** Google Forms & Google Sheets
