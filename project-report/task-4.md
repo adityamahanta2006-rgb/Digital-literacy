@@ -1,6 +1,5 @@
 # Task 4: Professional Communication & Etiquette
 
-### **Deliverables**
 1.  **Email 1:** Extension request to a professor (Concise/Formal).
 2.  **Email 2:** Summer internship inquiry (Direct/Professional).
 3.  **Checklist:** [Social Media Do's and Don'ts Checklist](task-4-email-etiquette/social-media-checklist.md).
